@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR API KEY",
+  "api_version": "2024-02-01",
+  "endpoint": "YOUR API ENDPOINT",
+  "model": "gpt4-turbo"
+}

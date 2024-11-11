@@ -1,0 +1,356 @@
+{
+    "transcript": "So we come again for the the second meeting. Uh for the aim of this meeting now is to to make presentation about uh the work for each one. And take the the decision about the the design and the functionality of the the remote control. And we have think I got a new project requirement. So I think uh teletext becomes outdated. So the popularity of the since the popularity of the internet, and I think we don't need lighting adaptive, so the remote control should be only used for the the television. And of course we should have our image in the in the design. So, let's start with the the industrial designer.. Or y you can use the whiteboard if you want. Here. Oh okay. This one. Do you want to open Ah. Wow. This. You can i yeah. Ma Yeah we can change the b. Yeah. Um. It's mine. Participant one, no? Mm. Oh we have so let's move to to user interface design. Participant During the weekend. That's good. Mm-hmm. This are usual functionality. Tasks. And they are small. Mm-hmm. Yeah. What do you mean by the pa pa processing will be done on the T_V_ than the So we should have specific T_V_? Or? We can use this. Yeah, we don't Yeah, I think so. J j just the remote control. Mm. Yeah, we. Yeah. Speech recognition. Keep the navigation but. So you are Mm. How the this remote? Yeah, of course small. Participant four. So Harry. Mm-hmm. But do you think what they sug suggested s possibility. Yeah. It Yeah. But is it useful or not u I don't know. There is in the Mm. I think i If it's necessary can you can do that. We can integrate small microphone in the remote so it's not really a problem. What about lighting adaptive options? According to the re to the new requirements I think we don't need that. Yeah. Mm. So we have I think we have s still we have couple of minutes. Mm-mm. So any things to to discuss? Or any suggestions? Expensive. Price. I think we we can we is the. Yeah. So you have to anticipate the the future?. In future. Okay. So let's go for the the lunch break, and we will meet after.\nJust go to explorer. Or open. Participant two. Open uh. Slide show, view slide show,. One is a communication. Gateway arrays. It's a field programmable gateway arrays. Yeah. Or it's something like isn't hardware the first one? And the second one is for the software. Yeah to run th to make it run. That's it. No. Okay, and how about the battery power? Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared? Into the more compact and uh okay,. Yeah, yeah. Okay. Yeah, that's right. Having a charger rather than putting the battery cells always. People don't like it to have to buy the batteries when they run out. We just make a small charger and put it Bu Our remote, we do not want to make it P_D_A_. G Yeah, not the T_V_s. Yeah. Yeah, that's right. Yeah, that's right. Oh, but you have a catch there, um assume that um if you want to go to if you are watching channel two and if you want to go to channel ninety nine, then. Uh-huh huh huh huh. Mm-hmm hmm hmm. But Yeah then yeah that's right. Mm hmm hmm. Okay. Okay. too small that it goes under the sofa and we can't find it. Yeah, that's. just give it a name and we call him. Yeah, that's right. Yeah, that's right. Okay, after having the inputs from industrial design and user interface, I think most of the points which I want to are already covered here. And to find the most interesting features what the users would be interested, then what we have done is we have put a feedback forms in all the magazines, and the users send the feedbacks, and based on that These are the findings which we got and yeah adding of a speech interface is always good for a T_V_ remote but the technology We already know that as discussed earlier An it does how feasible it is. Oh we can put an limited vocabulary as in the mobile phones. We just have the it's not going to take much space also. It's going to be very slim. And next one was the size of the remote control. It has to be of course a very slim and small one. And of course most of the people are interested in if it's less expensive, so this is an important criteria here is I mean we have to look for a trade-off. The features and the cost. Little bit more if it's with extra features. Okay. Yeah, yeah. That's right. I mean, for a lazy guys they could say nine and the nine channel comes. Or they say movie name or I don't go for movie names but only for the numbers on the channel, or volume up, volume down, brightness, contrast. So, I think this should be a good idea, to put this features. And the fourth one was the teletext in various languages. Mm, I think Yeah as discussed in the earlier meeting, but I think uh not much people are really interested in this point if it's not really required. I mean I mean yeah, it's for the um industrial design and users interface designers to decide if it's going to be working or not. I think I think as I discussed th that four points would be good for um marketing. The speech interface and uh less uh reasonable uh cost. And the lighting adaptation and the teletext. And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions. If you are watching an foreign movie, you get subtitles sometimes. And uh if you are a French guy watching an English movie you would like to have it in French. And if I am a German then I would like to have the my options in German. So, the remote it should have some it should give me some flexibility of choosing the ch languages. That should be a good uh point. We already have some. Yeah, that's right. Yeah,. Okay, thank you.\nOkay. Okay. Yeah, alright. So uh Well I have a PowerPoint pr presentation stored in my in my personal folder so I I I think you can reach it from here. Participant two. Yeah. Uh open. Right, so um I will talk about the the w working design and And um well I I will present my my first idea on how to build the our new remote control for television. So uh can you go one page down, please. So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do. So uh mm I'm thin uh I think uh I I'll do a survey about what is uh what is available on the market and what what is the the cheapest possible things we hav we can use. Then uh I will try with the technical team to to build a prototype and to see uh with uh h how this little box would uh look look like. And how an and we can uh start troubleshooting first uh com communication problems or things like that. And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that. Okay so can you go down uh So, wha what I think for now is we don't want to have a remote control w which is wired so uh I think we u we can use a battery for the. Then two programmable chips for both software functionalities and communication. And the communication with the T_V_ set is uh made through uh infrared communication So uh this is the the schema of the o of the future uh remote controls so uh you can you can see the components, uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set. The one on top is for the um well the functionali the functionalities and the the th red um sorry the green one is is to well, putting things together, um f transform the data into uh qu into the format to to uh to communicate with the T_V_ set. And, that's it. I think we should use a F_P_G_A_ for for the functionalities which is easy to to t It's field programmable uh something array. Yeah. Well, uh a F_P_G_A_ is just a chip you can uh you can pr programme it uh wi with wh whatever you want. And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices. No. Well, th the F_P_G_A_ will produce the the data to send. Yeah. Yeah. Alright and that's it for the working design. So if you have any questions? Uh no no no no, I think uh we have uh to to uh have uh embedded uh b batteries in in the yeah into the t. Yeah, yeah. And uh I I don't think it will need um very uh much power to make it run, so Yeah. It's a good idea. Yeah. That's a good idea. Also, but but I I I think uh the the goal is to sell our remote control. S okay, so charger for is the. Yeah. Of course. So we have to t We have to sell a T_V_ with the remote control too. I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because Yes, that's a good idea, I think. We d we don't we we don't need really much buttons to i if we have a screen to navigate on on the T_V_ so uh Well, f four five buttons, it's sufficient. It's easy to build, it does not consume much power. Well, then y you you go to the main menu and uh you have uh go to channel and then uh you can Yeah. Maybe you. but uh I I think i i if you if you want to to make uh well a a big jump but uh well you you have to to have a a a device when you could you could Well, not a mouse but uh something that that says more clearly that uh right, left, up, down, well, the to have the ability to to to write something to the navigator, maybe directly, or So, we can think of buttons like in the telephone to send messages or things like that. But we'll see. Okay, so uh next presentation Mm. Well I I think it will be a, yes, a bit complicated to um make a speech recognisers runs on the small uh ts Yeah. And this can allow to choose the the program, for instance without uh adding uh buttons so it's a good idea. Yeah. Yeah, s s speech is a important extra feature I think Well, uh Well, we are we we just have to find a mean how to to add a m a a a microphone or uh well yes a microphone into the the remote control, so I well it will be alright. Yeah. Okay. Yeah, I think it's a bit complex too For our next product, our new T_V_ set with uh automatical uh sound adjustment light. Function. Yeah, but well what about the the new project's requirement? I I I think we should give up with teletext, no? Yes. Well, so maybe we we can j we can already think uh about a way to to access the internet via the television. Because if Yeah, but uh we can think that in a few years there will be T_V_ set that can access the internet. So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a w which will c which will come in a few years. So if we already have it in our remote control Yeah. Yeah. Yeah, to desi well, not not to implement it, but to well, to find a way to to add to add this functionality in a yeah, in an in an easy manner, if is possible. Yeah, yeah. Okay. So Okay, thank you.\nMm-hmm. Okay. Because it's open you mean. F_ five. Did you draw it? This. What is the other chip for? The one on top. For men. To the in Okay. Mm. What is F_P_G_A_? So why's it how is it different from the Bluetooth? Yeah. Programme it. Okay. Yeah. Uh So this are the they have to work together? Or? Do they have to work together or two separate choice Okay. Is the is the software par alri okay. Okay, okay. So you can control if you want, right? Mm. Mm. Mm. Mm. You can put it on the charger when uh you when you don't need to use it. Yeah. Yeah, yeah. Yeah. Mm. Uh mm. Y yeah, yeah. Because you are using because you are using Bluetooth, if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to, right? I dunno. So is mine. Oh. Yeah, this your Yeah. So you can open uh three. Yeah. So So I'm working on the technical functions design. can you show the next slide. So the the purpose is to to find uh the important questions to ask is what effect should the apparatus have. So so I found on a webs on the internet yeah. I spent a lot of time searching and uh and I found that uh the function of remote control is to send messages to television set. For example switch on, switch off, switch the next channel and so on and so on. So I found two very good prototypes for for this interface from our competitors so can you Yeah, yeah, yeah. Ours is a bit uh different. So these are two example. One is from the other one is from, yeah, uh engineering centr yeah. This is the most competing prototypes I've found. But then uh loo but then I found if you look at you see on the left one there are too many buttons Yeah. O on the right I tried to play with the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number so it's very lousy. So you so you move to the next the next one. Yeah, so I talk about the problem. And then I I look at the user manual they are a hundred pages thick, so we don't want that. So I propose the easy to use uh prototype. You can navigate on T_V_ screen and we can the user's preference and we need to have the T_V_ connected to internet so we end in order to access the T_V_ programmes by X_M_L_ and we need some to do some preprocessing. From the technical aspect, the processing should be done on the T_V_ set than on the on the remote controller, right? And then we the speech recognition as uh Harry says we may just put in we may K_I_V_. Yeah, all the processing is done the T_V_ is a compu has some processing power the Yeah. Yeah because are you just wondering what controller okay. Yeah. Okay. Yeah. Okay. So i the processing on on the remote controller so it can u be used in any T_V_, any conventional T_V_ sets? Mm. Okay. N yeah, that's all. The next one? So I come up with a simple design, just keep the v navigation buttons. Yeah. Yeah. Yeah. Mm. Okay, that's all. Mm. Mm. No, because you choose by channel, so you choose by T_V_ program so you don't have hundred channels to choose from. If you go by channel, you don't have to do that. Ah. Ah, a big jump. A mouse or Yeah. Mm. Mm-hmm. Uh it's gonna be small. Yeah. So it'll beep if you wanna find it you just uh shout y h just it just has to re respond to you when you look for the device. I dunno how bu And responds to you, and I- mm. But I think if you to recognise numbers it's a well-studied problem. I if you just recognise uh numbers is a limited you have limited vocabulary Mm. Yeah. Mm. Mm. Mm. But Mm. Yeah. I no I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost. Maybe not less, but they may be willing to pay little bit more for comfort, yeah, extra features. Mm. Yeah. Mm. Mm. Mm. What is the teletext? Mm. It is interesting but we are only concerned with the remote controller. So you need s special T_V_ sets to do that? Or it's it's done via this remote controller? It's very complex. Mm. Yeah, then we can conclude that. Yeah. Yeah, but it's quite possible but maybe not in this project. Mm. Mm. Okay. Yeah. Okay. Mm. Mm. Using the T_V_ to access the internet? Or what? I didn't quite understand Yeah, okay. Yeah. The future demand, market demand. The functionality in the future. Alright. Yeah. Because all the T_V_ sets will be digital, right. All the programmes, everything will be in digital than analog. Th the system will change and we have to anticipate for those change. Okay. Thank you.\n\n\n\n@highlight\n\nUh for the aim of this meeting now is to to make presentation about uh the work for each one .\n\n@highlight\n\nAnd take the the decision about the the design and the functionality of the the remote control .\n\n@highlight\n\nAnd we have think I got a new project requirement .\n\n@highlight\n\nSo I think uh teletext becomes outdated .\n\n@highlight\n\nand I think we don't need lighting adaptive , So the popularity of the since the popularity of the internet , so the remote control should be only used for the the television .\n\n@highlight\n\nAnd of course we should have our image in the in the design .\n\n@highlight\n\nSo , let's start with the the industrial designer .\n\n@highlight\n\nRight , so um I will talk about the the w working design and And um well I I will present my my first idea on how to build the our new remote control for television .\n\n@highlight\n\nSo I think the first things to do is to define the hardware components neededs to achieve uh what we want to do .\n\n@highlight\n\nI think uh I I'll do a survey about what is uh what is available on the market and what what is the the cheapest possible things we hav we can use .\n\n@highlight\n\nThen uh I will try with the technical team to to build a prototype And how an and we can uh start troubleshooting first uh com communication problems or things like that .\n\n@highlight\n\nAnd when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that .\n\n@highlight\n\nSo , wha what I think for now is we don't want to have a remote control w which is wired so uh I think we u we can use a battery for the .\n\n@highlight\n\nThen two programmable chips for both software functionalities and communication .\n\n@highlight\n\nAnd the communication with the T_V_ set is uh made through uh infrared communication So uh this is the the schema of the o of the future uh remote controls so uh you can you can see the components , uh battery and uh the two chips goes to the infrared uh connection to the T_V_ set .\n\n@highlight\n\nThe one on top is for the um well the functionali the functionalities One is a communication .\n\n@highlight\n\nand the the th red um sorry the green one is is to well , putting things together , um f transform the data into uh qu into the format to to uh to communicate with the T_V_ set .\n\n@highlight\n\nI think we should use a F_P_G_A_ for for the functionalities which is easy to to t What is F_P_G_A_ ?\n\n@highlight\n\nIt's a field programmable gateway arrays .\n\n@highlight\n\nSo why's it how is it different from the Bluetooth ?\n\n@highlight\n\nWell , uh a F_P_G_A_ is just a chip you can uh you can pr programme it uh wi with wh whatever you want .\n\n@highlight\n\nAnd uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .\n\n@highlight\n\nSo this are the they have to work together ?\n\n@highlight\n\nOr ?\n\n@highlight\n\nDo they have to work together or two separate choice Well , th the F_P_G_A_ will produce the the data to send .\n\n@highlight\n\nOr it's something like isn't hardware the first one ?\n\n@highlight\n\nAnd the second one is for the software .\n\n@highlight\n\nOkay , and how about the battery power ?\n\n@highlight\n\nUh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ?\n\n@highlight\n\nI think uh we have uh to to uh have uh embedded uh b batteries in in the And uh I I don't think it will need um very uh much power to make it run , so Mm .\n\n@highlight\n\nYou can put it on the charger when uh you when you don't need to use it .\n\n@highlight\n\nIt's a good idea .\n\n@highlight\n\nHaving a charger rather than putting the battery cells always .\n\n@highlight\n\nPeople don't like it to have to buy the batteries when they run out .\n\n@highlight\n\nWe just make a small charger Because you are using because you are using Bluetooth , if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to , right ?\n\n@highlight\n\nwe do not want to make it P_D_A_ .\n\n@highlight\n\nAlso , but but I I I think uh the the goal is to sell our remote control .\n\n@highlight\n\nSo I'm working on the technical functions design .\n\n@highlight\n\nSo the the purpose is to to find uh the important questions to ask is what effect should the apparatus have .\n\n@highlight\n\nSo so I found on a webs on the internet and uh and I found that uh the function of remote control is to send messages to television set .\n\n@highlight\n\nFor example switch on , switch off , switch the next channel and so on and so on .\n\n@highlight\n\nSo I found two very good prototypes for for this interface from our competitors This are usual functionality .\n\n@highlight\n\nOurs is a bit uh different .\n\n@highlight\n\nSo these are two example .\n\n@highlight\n\nOne is from the other one is from , yeah , uh engineering centr yeah .\n\n@highlight\n\nThis is the most competing prototypes I've found .\n\n@highlight\n\nBut then uh loo but then I found if you look at you see on the left one there are too many buttons And they are small .\n\n@highlight\n\nO on the right I tried to play with the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number so it's very lousy .\n\n@highlight\n\nSo you so you move to the next the next one .\n\n@highlight\n\nAnd then I I look at the user manual they are a hundred pages thick , so we don't want that .\n\n@highlight\n\nSo I propose the easy to use uh prototype .\n\n@highlight\n\nYou can navigate on T_V_ screen and we need to have the T_V_ connected to internet so we end in order to access the T_V_ programmes by X_M_L_ and we need some to do some preprocessing .\n\n@highlight\n\nFrom the technical aspect , the processing should be done on the T_V_ set than on the on the remote controller , right ?\n\n@highlight\n\nAnd then we the speech recognition as uh Harry says we may just put in we may K_I_V_ .\n\n@highlight\n\nWhat do you mean by the pa pa processing will be done on the T_V_ Yeah , all the processing is done the T_V_ is a compu has some processing power the So we should have specific T_V_ ?\n\n@highlight\n\nWe have to sell a T_V_ with the remote control too .\n\n@highlight\n\nYeah because are you just wondering what controller okay .\n\n@highlight\n\nI think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that and we can try t to get this information on to the remote control to to do the processing on the remote control because So I come up with a simple design , just keep the v navigation buttons .\n\n@highlight\n\nYes , that's a good idea , I think .\n\n@highlight\n\nWe d we don't we we don't need really much buttons to i if we have a screen to navigate on on the T_V_ so uh Well , f four five buttons , it's sufficient .\n\n@highlight\n\nIt's easy to build , it does not consume much power .\n\n@highlight\n\nOh , but you have a catch there , um assume that um if you want to go to if you are watching channel two and if you want to go to channel ninety nine , then .\n\n@highlight\n\nWell , then y you you go to the main menu and uh you have uh go to channel No , because you choose by channel , so you don't have hundred channels to choose from .\n\n@highlight\n\nbut uh I I think i i if you if you want to to make uh well a a big jump but uh well you you have to to have a a a device when you could you could but uh something that that says more clearly that uh right , left , up , down , well , the to have the ability to to to write something to the navigator , maybe directly , or we can think of buttons like in the telephone to send messages or things like that .\n\n@highlight\n\nUh it's gonna be small .\n\n@highlight\n\nSo it'll beep if you wanna find it too small that it goes under the sofa and we can't find it .\n\n@highlight\n\nyou just uh shout y h just it just has to re respond to you when you look for the device .\n\n@highlight\n\njust give it a name and we call him .\n\n@highlight\n\nAnd responds to you , and Okay , after having the inputs from industrial design and user interface , I think most of the points which I want to are already covered here .\n\n@highlight\n\nWell I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts But I think if you to recognise numbers it's a well-studied problem .\n\n@highlight\n\nI if you just recognise uh numbers is a limited you have limited vocabulary Oh we can put an limited vocabulary as in the mobile phones .\n\n@highlight\n\nAnd this can allow to choose the the program , for instance without uh adding uh buttons It's going to be very slim .\n\n@highlight\n\nit's not going to take much space also .\n\n@highlight\n\nIt has to be of course a very slim and small one .\n\n@highlight\n\nAnd next one was the size of the remote control .\n\n@highlight\n\nAnd of course most of the people are interested in if it's less expensive , I mean we have to look for a trade-off .\n\n@highlight\n\nThe features and the cost .\n\n@highlight\n\nI no I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost .\n\n@highlight\n\nMaybe not less , but they may be willing to pay little bit more for comfort , Little bit more if it's with extra features .\n\n@highlight\n\nYeah , s s speech is a important extra feature I think I mean , for a lazy guys they could say nine and the nine channel comes .\n\n@highlight\n\nbut only for the numbers on the channel , or volume up , volume down , brightness , contrast .\n\n@highlight\n\nAnd the fourth one was the teletext in various languages .\n\n@highlight\n\nwe we just have to find a mean how to to add a m a a a microphone or uh well yes a microphone into the the remote control , so What about lighting adaptive options ?\n\n@highlight\n\nYeah as discussed in the earlier meeting , but I think uh not much people are really interested in this point if it's not really required .\n\n@highlight\n\nAccording to the re to the new requirements I think we don't need that .\n\n@highlight\n\nbut it's quite possible but maybe not in this project .\n\n@highlight\n\nSo any things to to discuss ?\n\n@highlight\n\nI think as I discussed th that four points would be good for um marketing .\n\n@highlight\n\nThe speech interface and uh less uh reasonable uh cost .\n\n@highlight\n\nAnd the lighting adaptation and the teletext .\n\n@highlight\n\nAnd regarding the teletext uh these are the subtitl these are the text information which you got on the televisions .\n\n@highlight\n\nIf you are watching an foreign movie , you get subtitles sometimes .\n\n@highlight\n\nAnd uh if you are a French guy watching an English movie you would like to have it in French .\n\n@highlight\n\nAnd if I am a German then I would like to have the my options in German .\n\n@highlight\n\nSo , the remote it should have some it should give me some flexibility of choosing the ch languages .\n\n@highlight\n\nYeah , but well what about the the new project's requirement ?\n\n@highlight\n\nI I I think we should give up with teletext , no ?\n\n@highlight\n\nWell , so maybe we we can j we can already think uh about a way to to access the internet via the television .\n\n@highlight\n\nYeah , but uh we can think that in a few years there will be T_V_ set that can access the internet .\n\n@highlight\n\nSo it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a w which will c which will come in a few years .\n\n@highlight\n\nSo you have to anticipate the the future ?\n\n@highlight\n\nwell , not not to implement it , but to well , to find a way to to add to add this functionality in a yeah , in an in an easy manner , if is possible .\n\n@highlight\n\nYeah .\n\n@highlight\n\nBecause all the T_V_ sets will be digital , right .\n\n@highlight\n\nOkay .\n\n@highlight\n\nSo let's go for the the lunch break , and we will meet after .",
+    "summary": "The Project Manager presented the goals of the meeting and new product requirements. The Industrial Designer presented the internal components of a remote control and showed a diagram of how they operate together. He suggested that field programmable gateway arrays be used for the chip controlling software functionalities, and it was suggested that the remote be used with a recharging stand. The User Interface Designer gave a presentation on the technical functions of the remote, and displayed the interfaces of two existing products for comparison. He showed that the competitors' remotes were too complicated. He suggested that the televisions that the remotes are used with connect to the internet to access downloadable programs. He suggested a simple design with few buttons, small size, and a locator function. The Marketing Expert presented several characteristics important to users. He discussed using speech recognition and ways to make it feasible for the project, small size, low price point, and incorporating teletext in different languages. The group discussed the new requirement that required them to omit teletext from their design, and discussed the possibility of using the remote to access the internet through the television.",
+    "actions": "",
+    "decisions": "The remote will be used with a recharging stand. The group decided not to include a lighting adaptation system.",
+    "problems": "The participants disagreed on how to easily move through channels using the design of the User Interface Designer, which included very few buttons. There was no resolution on whether or not to allow users to use the remote to access the internet through their television, as opposed to including teletext capabilities.",
+    "pens": [
+        {
+            "filename": "IS1007b.Pen_3_Page071-06.12.2004.avi.jpg",
+            "ocr_transcript": "MEETING #2\n- charger for alienation\n- go on with speech",
+            "ocr_description": "The image is a handwritten note that reads:\n\n\"MEETING #2\n- charger for alienation\n- go on with speech\""
+        },
+        {
+            "filename": "IS1007b.Pen_4_Page069-06.12.2004.avi.jpg",
+            "ocr_transcript": "I\n\nII\nCharger for remote control,\nIndustrial design,\nanimal function",
+            "ocr_description": "The image contains handwritten text in blue ink. The text is divided into two parts, labeled with Roman numerals \"I\" and \"II.\" The first part, labeled \"I,\" appears to be empty. The second part, labeled \"II,\" has some handwritten notes which read:\n\n\"Charger for remote control\nIndustrial design\nInitial Function\""
+        }
+    ],
+    "whiteboard": [],
+    "shared-doc": {
+        "txt": [],
+        "ppt": [
+            {
+                "filename": "IS1007docs.Participant1.Agenda1..1.ppt",
+                "content": {
+                    "0": [
+                        "Functional Design meeting",
+                        "Presented by: <BenZeghiba> Project Manager"
+                    ],
+                    "1": [
+                        "Agenda",
+                        "Opening\nProject Manager = secretary (minutes)\n3 presentations\nNew project requirements\nDecision on remote control functions\nClosing (we have 40 minutes!)\n"
+                    ],
+                    "2": [
+                        "Closing",
+                        "Now: lunch break\nThen 30 minutes of individual work\nPM: puts minutes in Project Documents folder\nIndividual actions\nID: the components concept \nUID: the user interface concept \nME: trend watching \nSpecific instructions will be sent to you by your personal coach."
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant2.Components_design.ppt",
+                "content": {
+                    "0": [
+                        "Components Design",
+                        "Presented by: Guillaume, Industrial Designer"
+                    ],
+                    "1": [
+                        "Method\u000b",
+                        "Review of existing material \n\t- energy sources: solar, hand dynamo,…\n\t- case material: wood, rubber, titanium,…\n\t- interface: buttons, scrolls,…\n\t- chips"
+                    ],
+                    "2": [
+                        "Findings",
+                        "Energy: kinetic or basic battery\nCase: single-curved, titanium\nInterface: rubber buttons (cheaper)\nElectronic: regular chip (cheaper) "
+                    ],
+                    "3": [
+                        "Personal Preferences",
+                        "Rubber buttons are sufficient for our purposes (navigation). Moreover, only regular chip are necessary when using simple buttons (cheaper).\nTitanium case: trendy\nEnergy: Is the kinetic method sufficient ?"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant2.Final_design.ppt",
+                "content": {
+                    "0": [
+                        "Product Prototypes",
+                        "Presented by: \nNorman and Guillaume\nFinal Product Design"
+                    ],
+                    "1": [
+                        "Two versions",
+                        "With LCDs\nWithout LCDs\n\nBoth comes with:\ncharger\nDetachable (add-on) parental control module\nDetachable big buttons (for old people)"
+                    ],
+                    "2": [
+                        "Other important features",
+                        "Detachable (add-on) speech recognizer\nSecurity feature (robust to mishandlings; for kids)\nEndurable battery life (high autonomy)\nRobust-to-misplacement reminder\nUser-programmable channels and vocabulary\nPre-filtering of TV programs by genre\nCheap-to-produce and –manufacture materials\nLight-weight\nFancy design and colors\n"
+                    ],
+                    "3": [
+                        "Demonstration of prototypes",
+                        "Comments"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant2.Working_design.ppt",
+                "content": {
+                    "0": [
+                        "Working Design",
+                        "Presented by: Guillaume, Industrial Designer"
+                    ],
+                    "1": [
+                        "Method",
+                        "Define the hardware material needed to achieve the required functionalities.\nBuild prototype\nAdd software functionalities (e.g. browse by content, remember favorites, …)"
+                    ],
+                    "2": [
+                        "Findings",
+                        "Battery used for alimentation\nChip for software functionalities\nChip for communication \nCommunication through infrared\n \n"
+                    ],
+                    "3": [
+                        "Components",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "Battery",
+                        ""
+                    ],
+                    "4": [
+                        "Personal Preferences",
+                        "FPGA for functionalities \nBluetooth for communications\n"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant3.Final_design.ppt",
+                "content": {
+                    "0": [
+                        "Product Prototypes",
+                        "Presented by: \nNorman and Guillaume\nFinal Product Design"
+                    ],
+                    "1": [
+                        "Two versions",
+                        "With LCDs\nWithout LCDs\n\nBoth comes with:\ncharger\nDetachable (add-on) parental control module\nDetachable big buttons (for old people)"
+                    ],
+                    "2": [
+                        "Other important features",
+                        "Detachable (add-on) speech recognizer\nSecurity feature (robust to mishandlings; for kids)\nEndurable battery life (high autonomy)\nRobust-to-misplacement reminder\nUser-programmable channels and vocabulary\nPre-filtering of TV programs by genre\nCheap-to-produce and –manufacture materials\nLight-weight\nFancy design and colors\nSpeech recognition feature\n"
+                    ],
+                    "3": [
+                        "Demonstration of prototypes",
+                        "Comments"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant3.Interface_concept.ppt",
+                "content": {
+                    "0": [
+                        "Interface Concept",
+                        "Presented by: Norman Poh\nUser Interface Designer"
+                    ],
+                    "1": [
+                        "Method\u000b",
+                        "User interface - The aspects of a computer system or program which can be seen (or heard or otherwise perceived ) by the human user , and the commands and mechanisms the user uses to control its operation and input data . \u000b\nA graphical user interface emphasizes the use of pictures for output and a pointing device such as a mouse for input and control whereas a command line interface requires the user to type textual commands and input at a keyboard and produces a single stream of text as output . "
+                    ],
+                    "2": [
+                        "some examples of remote controls: ",
+                        "The interface exists of a clutter of button functions, colors, and forms. This inconsistent use of interface is confusing and doesn't improve the use of the product. "
+                    ],
+                    "3": [
+                        "Voice recognition: ",
+                        "Control multiple devices and surf your favorite channels with your voice! Stores Up to 80 speech samples, Controls 4 Devices -TV, Cable/Satellite, VCR/DVD & Audio. Record your own verbal labels that is connected to a remote control function.  "
+                    ],
+                    "4": [
+                        "A spinning wheel with LC display: "
+                    ],
+                    "5": [
+                        "A scroll button with integrated push button"
+                    ],
+                    "6": [
+                        "TV remote control for special user ",
+                        "Program in only the channels you want your kids to watch - all others are automatically blocked!\nChild Friendly design and ease-of-operation ensures kids will love using their own remote!\nProgram in up to 10, 4-Digit channels. Dedicated buttons make getting to channels easy.\nSupports TV's, TV/VCR, Analog and Digital Cable, DirecTV, Dish, TiVo, ReplayTV and Ultimate TV.\nSecured and hidden programming and battery covers protect your settings."
+                    ],
+                    "7": [
+                        "More features and options. "
+                    ],
+                    "8": [
+                        "Big Button, Oversized TV Remote "
+                    ],
+                    "9": [
+                        "Turn down the TV "
+                    ],
+                    "10": [
+                        "Summary",
+                        "Big buttons are convenient\nVoice recognition helps\nPush buttons, scroll buttons, spinning wheels as navigation tools\nUser-customizable (kids, old people, etc)\nSimplicity is the key!\n\n\n"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant3.Technical_functions.ppt",
+                "content": {
+                    "0": [
+                        "Technical Functions Design",
+                        "Presented by: Norman Poh\nUser Interface Designer"
+                    ],
+                    "1": [
+                        "Technical Functions design:",
+                        "what effect should the apparatus have ?\n"
+                    ],
+                    "2": [
+                        "Function",
+                        "The function of a remote control is basically to send messages to the television set. Example messages are: \"switch on\", \"switch off\", \"switch to next channel\", \"switch to channel 9\", \"turn volume up\", etc. The followings are two examples of a remote control interface through which the functions are fulfilled. "
+                    ],
+                    "3": [
+                        "Examples"
+                    ],
+                    "4": [
+                        "Problems",
+                        "Too many buttons; complex user manual"
+                    ],
+                    "5": [
+                        "Proposal",
+                        "Easy\nNavigate on TV screen\nPre-filter users’ preference by program\nHaving the TV connected to the Internet to access XML plus some preprocessing\nKIV: speech recognition"
+                    ],
+                    "6": [
+                        "",
+                        "",
+                        "A simple design",
+                        "",
+                        "Keep the navigation buttons!"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant4.Evaluation.ppt",
+                "content": {
+                    "0": [
+                        "Evaluation criteria",
+                        "Presented by: \nMaganti HariKrishna\nMarketing Expert"
+                    ],
+                    "1": [
+                        "Findings",
+                        "Recent investigation of the remote control market shows the following. \n- The most important aspect for remote controls happens to be a fancy look-and-feel, instead of the current functional look-and-feel. This aspect is twice as important as the second aspect. \n- The second most important aspect is that a remote control should be technological innovative. In turn, this aspect is twice as important as the next aspect. \n- The third most important aspect is that the remote control should be easy-to-use. "
+                    ],
+                    "2": [
+                        "Recent Fashion Update",
+                        "\nFashion watchers in Paris and Milan have detected the following trends. \n- This year, fruit & vegetables will be the most important theme for cloths, shoes, and furniture.\n- Also in contrast to last year, the feel of material is expected to be spongy."
+                    ],
+                    "3": [
+                        "Evaluation",
+                        "Criteria rating with seven-point scale"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant4.Functional_requirements..1.ppt",
+                "content": {
+                    "0": [
+                        "Functional Requirements",
+                        "Presented by: Maganti HariKrishna, Market Expert"
+                    ],
+                    "1": [
+                        "Method\u000b",
+                        "Find most interesting features the users would like to have.\nGet feedback from the users by providing feedback forms in magazines, journals, etc.\n\n\n\n\n"
+                    ],
+                    "2": [
+                        "Findings",
+                        "Speech Interface adds up the value\nSlim design \nLess expensive\nTeletext for various languages"
+                    ],
+                    "3": [
+                        "Personal Preferences",
+                        "Speech interface\nTeletext option\nLighting Adaptive option\nTask Remainder display option"
+                    ]
+                }
+            },
+            {
+                "filename": "IS1007docs.Participant4.Trend_watching..2.ppt",
+                "content": {
+                    "0": [
+                        "Trend Watching",
+                        "Presented by: Maganti Hari Krishna ,Marketing Expert"
+                    ],
+                    "1": [
+                        "Method\u000b",
+                        "Responses from the questionnaires\u000b\nPrizes for the most creative suggestions\n\n"
+                    ],
+                    "2": [
+                        "Findings",
+                        "75% of users find most remote controls ugly \n80% of users would spend more money when a remote control would look fancy \nCurrent remote controls do not match well the operating behavior of the user \n75% of users said they zap a lot \n50% of users say they only use 10% of the buttons \n"
+                    ],
+                    "3": [
+                        "Frustations-Present Remote Controls",
+                        "Remote controls are often lost somewhere in the room (50%) \nIt takes too much time to learn how to use a new remote control (34%) "
+                    ],
+                    "4": [
+                        "Personal Preferences",
+                        "LCD on remote controls\nSpeech Recognition \nButton on charger to find the remote control (or Voice command)\nFancy look "
+                    ]
+                }
+            }
+        ],
+        "doc": [
+            {
+                "filename": "IS1007docs.Participant1.ABSTRACT1.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n I do not have experiences in managing meetings, it was quite difficult for me. But with the help\n\nOf the other people, everything was OK. \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n\n-  Some of the characteristics of the remote control\n\n\t    1 – buttons to choose the content\n\n\t   2-  Optimize the number of the buttons.\n\n\t   3-  Possibility of including speech and lighting adaptive engines\n\n\t\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n   1 – How to manage the meeting\n   2- How to go from one step to another during the meeting\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\n\t\n\n\t  Deep discussion about the decision we have made.\n\n    Each member will give a clear presentation about his idea."
+            },
+            {
+                "filename": "IS1007docs.Participant1.ABSTRACT2.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n1- The remote control should have a battery. for alimentation\n\n\t2- Adding some software functionalities.\n\n\t3- Has a simple interface with a few buttons.\n\n\t4- There should be a trade off between cost-functionalities and simple design\n5- People agree that including a small vocabulary speech recognition is a good idea-\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n  1. As a PM, I do not understand some current technologies\n\n\t  2 How to manage the meeting is still a big problem\n\n\t   3. Make people agree about one idea, when they have different opinion \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\n\t\n\n\t.The User interface designer will talk about the conceptual specification of the user interface.\n\n\tThe Industrial designer will talk about the conceptual specification about the component and\n\n\tMateriasl properties.\n\n\tThe market expert will talk about the trend watching"
+            },
+            {
+                "filename": "IS1007docs.Participant1.ABSTRACT3.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n It was rich, detailed discussion about the conceptual design\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n1. Integrate a speech recognition engine in the remote control.\n\n\t2. The remote control should be fancy\n\n\t3. Can be used by kids  and  old people\n\n\t4. Made with titanium and rechargeable battery\n\n\t 5. User manual  integrated into the remote control\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n  1. As a PM, I do not understand some current technologies\n\n\t  2 How to manage the meeting is still a big problem\n\n\t   3. Make people agree about one idea, when they have different opinion \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\n\t\n\n\t.The User interface designer will talk about the conceptual specification of the user interface.\n\n\tThe Industrial designer will talk about the conceptual specification about the component and\n\n\tMateriasl properties.\n\n\tThe market expert will talk about the trend watching"
+            },
+            {
+                "filename": "IS1007docs.Participant1.ABSTRACT4.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\nThe prototype of the remote control was discussed and evaluated.\n\nIt was within the budget\n\n\t\n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n\n1- A remote control without LCD and without speech recognition, they will be offered as a additional options.\n\n\t2- All modules should be within the same piece, in order to reduce the price.\n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\nGet agree about the final product design\n\n\t\n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes."
+            },
+            {
+                "filename": "IS1007docs.Participant2.Summary.2.doc",
+                "content": "SUMMARY – MEETING #2\n\n\n\n\n\n[ABSTRACT] \n\nThe project manager told us about the new project requirements. We discussed implementation points in more details (both for industrial design and user interface). I presented the very first components block-diagram.\n\n\n\n[DECISIONS]\n\nDecision has been made to go on with the technical staff proposals. Thanks to the marketing expert, we decided to embed a speech recognition system into the remote control (value-added feature), in order to “jump” directly to the desired channel.\n\n\n\n[PROBLEMS/ISSUES]\n\nHow to get and process the information coming from the TV set, so as to address the content-based navigation problem. Find the cheapest hardware possible. \n\n\n\n[ACTIONS]\n\nI am supposed to carry on with the components concept.\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant2.Summary_meeting_1.doc",
+                "content": "SUMMARY – MEETING #1\n\n\n\n\n\n[ABSTRACT] \n\nAs the industrial design responsible, I will be in charge of the technical aspects of the new remote control for television. The remote control system should be original, trendy and easy-to-use. Very first ideas have been proposed on the functionalities for our new product.\n\n\n\n[DECISIONS]\n\nThe main decision is that each individual involved in the project should gather information about its own subject of expertise on how to effectively build the new product.\n\n\n\n[PROBLEMS/ISSUES]\n\nWe mainly discussed about how to actually control the TV-set. Since we want to develop a remote control capable of dealing with content, the main problem will be to gather information about the program content, and how to process it.\n\n\n\n[ACTIONS]  \n\nEach individual is responsible to think about its own subject of expertise until the next meeting.\n\n\n\n\n\n "
+            },
+            {
+                "filename": "IS1007docs.Participant2.Summary_meeting_2.doc",
+                "content": "SUMMARY – MEETING #2\n\n\n\n\n\n[ABSTRACT] \n\nThe project manager told us about the new project requirements. We discussed implementation points in more details (both for industrial design and user interface). I presented the very first components block-diagram.\n\n\n\n[DECISIONS]\n\nDecision has been made to go on with the technical staff proposals. Thanks to the marketing expert, we decided to embed a speech recognition system into the remote control (value-added feature), in order to “jump” directly to the desired channel.\n\n\n\n[PROBLEMS/ISSUES]\n\nHow to get and process the information coming from the TV set, so as to address the content-based navigation problem. Find the cheapest hardware possible. \n\n\n\n[ACTIONS]\n\nI am supposed to carry on with the components concept.\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant2.Summary_meeting_3.doc",
+                "content": "SUMMARY – MEETING #3\n\n\n\n\n\n[ABSTRACT] \n\nAs the industrial designer, I was in charge to present the different possibilities to effectively realize the remote control. The user interface designer also shows what was possible to do, and the marketing expert reported us the market trend and the customer’s expectations.\n\n\n\n[DECISIONS]\n\nDecision has been made to quantify (money) the integration of speech recognizer and LCD display.  \n\n\n\n[PROBLEMS / ISSUE]\n\nBuild one – or more – prototypes.\n\n\n\n[ACTIONS]\n\nbuild prototypes. \n\n\n\n\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant2.Summary_meeting_4.doc",
+                "content": "SUMMARY – MEETING #3\n\n\n\n\n\n[ABSTRACT] \n\nAs the industrial designer, I was in charge to present the different possibilities to effectively realize the remote control. The user interface designer also shows what was possible to do, and the marketing expert reported us the market trend and the customer’s expectations.\n\n\n\n[DECISIONS]\n\nDecision has been made to quantify (money) the integration of speech recognizer and LCD display.  \n\n\n\n[PROBLEMS / ISSUE]\n\nBuild one – or more – prototypes.\n\n\n\n[ACTIONS]\n\nbuild prototypes. \n\n\n\n\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant2.Summary_meeting_5.doc",
+                "content": "SUMMARY – MEETING #4\n\n\n\n\n\n[ABSTRACT] \n\nWe present our beautiful prototypes…and discuss the cost, as well as the marketing issues. We rated our prototypes using the market expert criterion.\n\n\n\n[DECISIONS]\n\nDecision has been made to produce fruit-shaped remote control, with spongy feeling, and not much technology inside (cheaper). Decision has been based upon a recent market study presented by the market expert.\n\n\n\n[PROBLEMS / ISSUE]\n\nHow to produce the spongy effect, which fruit shape to use ? Are the speech recognizer and the LCD display very useful (compared to production costs) \n\n\n\n[ACTIONS]\n\nFind the best tradeoff between the shape / technology and the production complexity.\n\n\n\n\n\n\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant3.meeting_summary01.doc",
+                "content": " \n\n----- Original Message ----- \n\nFrom: HeadOfDept@ami \n\nTo: participant3@ami \n\nSent: Monday, December 06, 2004 11:03 AM\n\nSubject: Please summarise the last meeting\n\n\n\nDear Colleague,\n\n \n\nWould you be so kind to report to me on the past meeting? Please keep in mind that your notes are part of the project documentation – among other things, they will be used by myself and other staff to stay informed about the state of the project. It is therefore essential that your notes – though kept short - are of high quality. In particular:\n\n \n\nDo not use any abbreviations. \n\nWrite notes that are understandable for somebody who was not present during the meeting \n\n \n\nThe head of your department\n\n\t\t \n\n \n\n[ABSTRACT]   Besides taking my role as a user-interface designer, I am also concerned with the overall product design. The last meeting was more concerned with the functional design aspect. It was concluded that a TV remote-controller should give the user the flexibility to choose either by content or by channel. The conventional TV remote-controller gives only the option by channel and not by content. Hence, our new design is revolutionary in that it can give the user to option of choosing by channel. This poses a great challenge: how to implement that? One option is by retrieving XML files from a TV program website provider.\n\n\n\n\n\n \n\n\t \n\n\t[DECISIONS]   \n\n\tThere should be buttons to choose by contents or by channels\n\n\n\n\n\n\n\n\n \n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant3.meeting_summary02.doc",
+                "content": " \n\n----- Original Message ----- \n\nFrom: HeadOfDept@ami \n\nTo: participant3@ami \n\nSent: Monday, December 06, 2004 12:19 PM\n\nSubject: Please summarise the last meeting\n\n\n\nDear Colleague,\n\n \n\nWould you be so kind to report to me on the past meeting? Please keep in mind that your notes are part of the project documentation – among other things, they will be used by myself and other staff to stay informed about the state of the project. It is therefore essential that your notes – though kept short - are of high quality. In particular:\n\n \n\nDo not use any abbreviations. \n\nWrite notes that are understandable for somebody who was not present during the meeting \n\n \n\nThe head of your department\n\n\t\t \n\n \n\n [ABSTRACT]   In the last meeting, the functional design aspect was discussed in details. As for my part, I found the following information: The function of a remote control is basically to send messages to the television set. Example messages are: \"switch on\", \"switch off\", \"switch to next channel\", \"switch to channel 9\", \"turn volume up\", etc. The followings are two examples of a remote control interface through which the functions are fulfilled. Here are two prototypes from the competitors:\n\n\n\n\n\n \n\n\t \n\n\t[DECISIONS]   \n\nProposals:\n\nEasy\n\nNavigate on TV screen\n\nPre-filter users’ preference by program\n\nHaving the TV connected to the Internet to access XML plus some preprocessing\n\nKIV: speech recognition\n\n\n\nDecisions: keep the navigation buttons only!\n\n\n\n \n\n\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant3.meeting_summary03.doc",
+                "content": " \n\n----- Original Message ----- \n\nFrom: HeadOfDept@ami \n\nTo: participant3@ami \n\nSent: Monday, December 06, 2004 2:34 PM\n\nSubject: Please summarise the last meeting\n\n\n\nDear Colleague,\n\n \n\nWould you be so kind to report to me on the past meeting? Please keep in mind that your notes are part of the project documentation – among other things, they will be used by myself and other staff to stay informed about the state of the project. It is therefore essential that your notes – though kept short - are of high quality. In particular:\n\n \n\nDo not use any abbreviations. \n\nWrite notes that are understandable for somebody who was not present during the meeting \n\n \n\nThe head of your department\n\n\t\t \n\n \n\n [ABSTRACT]   \n\nCurrent remote controller problems are:\n\nToo many buttons\n\nThey are inconsistent\n\nRemote controller lost in the room\n\nIt takes too much time to learn the user-interface\n\nMost buttons are not used\n\n\n\nSome creative ideas found:\n\nVoice recognition\n\nLCD display\n\nScroll buttons\n\nControllers for special users: child-friendly design\n\nProtective covers to hide special functions\n\nFancy look\n\nSimplicity is the key!\n\n\n\nAn example of a good prototype:\n\n\n\n\n\n \n\n\t \n\n\t[DECISIONS]   \n\nUse speech recognize technology\n\nNavigate on TV screen\n\nPre-filter users’ preference by program\n\nHaving the TV connected to the Internet to access XML plus some preprocessing\n\nKIV: LCD\n\n\n\nDecisions: keep the navigation buttons only!\n\n\n\n \n\n\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant3.meeting_summary04.doc",
+                "content": "  \n\n----- Original Message ----- \n\nFrom: HeadOfDept@ami \n\nTo: participant3@ami \n\nSent: Monday, December 06, 2004 3:46 PM\n\nSubject: Please summarise the last meeting\n\n\n\nDear Colleague,\n\n \n\nWould you be so kind to report to me on the past meeting? Please keep in mind that your notes are part of the project documentation – among other things, they will be used by myself and other staff to stay informed about the state of the project. It is therefore essential that your notes – though kept short - are of high quality. In particular:\n\n \n\nDo not use any abbreviations. \n\nWrite notes that are understandable for somebody who was not present during the meeting \n\n \n\nThe head of your department\n\n\t\t \n\n \n\n [ABSTRACT]   \n\nWe presented our prototypes. There are two versions: with and without LCD. Both comes with:\n\ncharger\n\nDetachable (add-on) parental control module\n\nDetachable big buttons (for old people)\n\n\n\nOther important features are:\n\nDetachable (add-on) speech recognizer\n\nSecurity feature (robust to mishandlings; for kids)\n\nEndurable battery life (high autonomy)\n\nRobust-to-misplacement reminder\n\nUser-programmable channels and vocabulary\n\nPre-filtering of TV programs by genre\n\nCheap-to-produce and –manufacture materials\n\nLight-weight\n\nFancy design and colors\n\n\n\n\n\n The prototypes were evaluated according to 3 criteria, namely fancy look-and-feel technological innovative and ease-to-use. We scored high on all 3 criteria. \n\n\t \n\n\t[DECISIONS]   \n\nWe decided not to produce the LCD version because the display can be transferred to the TV screen; this gives more space and fanciful display than the LCD.\n\n\n\nWe also decided that different kinds of “skin” can be used on the new prototype. In particular, fruits and vegetable skins are fashionable, according to the marketing manager. \n\n\n\n"
+            },
+            {
+                "filename": "IS1007docs.Participant4.summary_1.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n The meeting was about the new product- Remote Control \n\n>Designing a new remote control which is handy with lot of features and cost effective\n\n>Should be a good product which is more user friendly\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n\n>Inclusion of speech interface \n\n\t>To get information by contents or by channels\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n\n\n\n\t >Not clear what REAL features are to be incorporated\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\n\n\n>New ideas to make user friendly cost effective remote control\n\n>ME: A new features which would boost sales\n\n>ID: whether it is feasible to provide the discussed features\n\n>UD: how could these features be more friendly to the users"
+            },
+            {
+                "filename": "IS1007docs.Participant4.summary_2.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n Interesting ideas for building up the better remote control\n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n\n>Inclusion of speech interface \n\n\t>To get information by contents or by channels\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n\n\n\n\t >Speech Interface with limited vocabulary\n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\n\n\n>New ideas to make user friendly cost effective remote control\n\n>ME: Marketing  schemes to boost sales based on new features\n\n>ID: Build SR and light adapting schemes\n\n>UD: designing user friendly interface for the same"
+            },
+            {
+                "filename": "IS1007docs.Participant4.summary_3.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n Interesting ideas for building up the better remote control\n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n\n>LCD for remote or tvs\n\n\t >speech interfaces\n\n\t>child locks\n\n\t>fancy design\n\n\t>latest technology to be used\n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n\n\n\n\t >Speech Interface or LCDs\n\n\t>Speech Interface if 2 users make commands\n\n\t>Speech interface for factory use \n\n\t >costs involved in providing interfaces\n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\n\n\n>New ideas to make user friendly cost effective remote control\n\n>ME: Marketing  schemes to boost sales based on new features\n\n>ID: \n\n>UD: combine to make the modelling clay"
+            },
+            {
+                "filename": "IS1007docs.Participant4.summary_4.doc",
+                "content": "[ABSTRACT]   Write one paragraph of coherent text to summarize the meeting as a whole from your role’s perspective.\n\n Interesting ideas for building up the better remote control\n\n \n\n \n\n \n\n \n\n \n\n\t \n\n\t[DECISIONS]   Name all decisions that were made during the meeting. Mark those decisions that you consider of high importance for your role with a *. Write fragmented notes.\n\n>No LCD for remote or tvs\n\n\t >No speech interfaces\n\n\t>fancy design\n\n\t\n\n\t \n\n\t \n\n\t \n\n\t[PROBLEMS/ISSUES] Name the problems or difficulties that occurred during the meeting. Mark those that you consider of high importance for your role with a *. Write fragmented notes.\n\n\n\n\t  >costs reduction in making the remotes\n\n\t \n\n\t \n\n\t \n\n\t[ACTIONS]  Name the next steps that each member will take until the next meeting. Write fragmented notes.\n\nDesign simple easy to use innovative remote control"
+            }
+        ]
+    }
+}
